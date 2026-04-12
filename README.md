@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tanjiro
+# Academic information:
 
 🎓 CSE Student | 🤖 AI/ML Enthusiast | 🐍 Python Developer
 
