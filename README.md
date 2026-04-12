@@ -1,19 +1,20 @@
 # Academic information:
 
-🎓 CSE Student | 🤖 AI/ML Enthusiast | 🐍 Python Developer
+🎓 CSE Student | 🤖 AI/ML Enthusiast | 🔐 Cybersecurity Enthusiast
 
 ---
 
 ## 🚀 About Me
 - 🌱 Currently learning Machine Learning & Data Science  
-- 💡 Interested in AI, Data Science, and Automation  
-- 🛠 Building beginner-friendly ML projects  
-- 🎯 Goal: Become an ML Engineer by 2026  
+- 💡 Interested in AI, Data Science, Cybersecurity and Automation  
+- 🛠 Building beginner-friendly CS projects  
+- 🎯 Goal: Become a successful CS Engineer in long-term future  
 
 ---
 
 ## 🧰 Skills
-- Python
+- C, Python, Java
+- HTML, CSS, basic Javascripts web hosting
 - NumPy, Pandas, Matplotlib
 - Scikit-learn (learning)
 - Git & GitHub (basic)
@@ -22,19 +23,14 @@
 
 ## 📂 Projects
 
-### 📊 Student Performance Analysis
-- Analyzed student dataset using Pandas
-- Visualized results using Matplotlib
 
-### 🏠 House Price Prediction
-- Built ML model using Linear Regression
-- Achieved basic prediction accuracy
 
 ---
 
 ## 📈 Goals
 - Learn Deep Learning
-- Build 5+ ML projects
+- Invest knowledge in cybersecurity
+- Build ML projects
 - Contribute to open-source
 
 ---
