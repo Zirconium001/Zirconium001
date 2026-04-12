@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Tanjiro
 
-<!--
-**Zirconium001/Zirconium001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student | 🤖 AI/ML Enthusiast | 🐍 Python Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning Machine Learning & Data Science  
+- 💡 Interested in AI, Data Science, and Automation  
+- 🛠 Building beginner-friendly ML projects  
+- 🎯 Goal: Become an ML Engineer by 2026  
+
+---
+
+## 🧰 Skills
+- Python
+- NumPy, Pandas, Matplotlib
+- Scikit-learn (learning)
+- Git & GitHub (basic)
+
+---
+
+## 📂 Projects
+
+### 📊 Student Performance Analysis
+- Analyzed student dataset using Pandas
+- Visualized results using Matplotlib
+
+### 🏠 House Price Prediction
+- Built ML model using Linear Regression
+- Achieved basic prediction accuracy
+
+---
+
+## 📈 Goals
+- Learn Deep Learning
+- Build 5+ ML projects
+- Contribute to open-source
+
+---
+
+## 📫 Contact
+- Email: tan450878@gmail.com
