@@ -30,7 +30,27 @@
 
 ## 📂 Projects
 
+### 🎓 University Companion (Refined companion)
+A single-page web application built to help university students access resources quickly.
 
+🔹 Features:
+- Dark/Light mode toggle  
+- Previous batch's questions for CSE students  
+- Responsive UI design  
+- Beginner-friendly project architecture  
+
+🔗 link: https://university-companion.netlify.app
+
+---
+
+### ⌨️ University Projects
+A project-hub for all my university projects that I do throughout my journey
+🔹 Tech Used:
+- HTML, CSS, JavaScript, Java
+- Real-time typing analysis  
+- Responsive design  
+
+🔗 GitHub Repo: https://github.com/zirconium001/university-projects
 
 ---
 
