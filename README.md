@@ -59,6 +59,7 @@ A project-hub for all my university projects that I do throughout my journey
 - Invest knowledge in cybersecurity
 - Build ML projects
 - Contribute to open-source
+- Keep consistency in learning
 
 ---
 
