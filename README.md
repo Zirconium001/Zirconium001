@@ -63,5 +63,10 @@ A project-hub for all my university projects that I do throughout my journey
 
 ---
 
+## Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RabbitJahir&theme=tokyonight)
+
+---
 ## 📫 Contact
 - Email: tan450878@gmail.com
