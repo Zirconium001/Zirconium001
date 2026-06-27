@@ -11,6 +11,40 @@
 
 ---
 
+<!-- About Me Section with Animation -->
+
+
+<br/>
+
+<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+## 🚀 About Me
+
+```javascript
+const Zirconium001 = {
+    pronouns: "He" | "Him",
+    location: "Earth",
+    code: ["JavaScript", "HTML", "CSS"],
+    askMeAbout: ["Web Dev", "Frontend", "Backend", "MERN Stack"],
+    technologies: {
+        frontEnd: {
+            js: ["React.js", "Vanilla JS", "Next.js"],
+            css: ["Tailwind CSS", "Bootstrap", "Material UI"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express.js"],
+        },
+        databases: ["MongoDB", "Firebase"],
+        misc: ["JWT", "REST APIs", "Git", "GitHub"]
+    },
+    currentFocus: "Building scalable MERN applications",
+    funFact: "I debug with creativity, not just console.log()! 🎨"
+};
+```
+
+<br/>
+
+---
 ## 🚀 About Me
 - 🌱 Currently learning Machine Learning & Data Science  
 - 💡 Interested in AI, Data Science, Cybersecurity and Automation  
