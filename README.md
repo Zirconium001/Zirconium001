@@ -69,11 +69,22 @@ A single-page web application built to help university students access resources
 
 🔹 Features:
 - Dark/Light mode toggle  
-- Previous batch's questions for CSE students  
 - Responsive UI design  
 - Beginner-friendly project architecture  
 
-🔗 link: https://university-companion.netlify.app
+🔗 link: https://class-note-lab.netlify.app
+
+---
+
+### ⌨️ University QuesstionBank
+A project-hub for all my university projects that I do throughout my journey
+🔹 Tech Used:
+- HTML, CSS, JavaScript
+- Previous batch's questions for CSE students  
+- Semester-wise mapping (user friendly)
+- Responsive design
+
+🔗 link: https://assessment-codex.netlify.app
 
 ---
 
