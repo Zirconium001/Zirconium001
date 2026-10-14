@@ -76,10 +76,12 @@ A single-page web application built to help university students access resources
 
 ---
 
-### ⌨️ University QuesstionBank
-A project-hub for all my university projects that I do throughout my journey
-🔹 Tech Used:
+### ⌨️ University QuestionBank
+A web application to store and provide necessary guidelines in the assessment seasons.
+🔹 Tech used:
 - HTML, CSS, JavaScript
+
+🔹 Features:
 - Previous batch's questions for CSE students  
 - Semester-wise mapping (user friendly)
 - Responsive design
