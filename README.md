@@ -34,10 +34,10 @@ const Zirconium001 = {
         backEnd: {
             js: ["Node.js", "Express.js"],
         },
-        databases: ["MongoDB", "Firebase"],
+        databases: ["MySQL", "PostgreSQL", "Supabase"],
         misc: ["JWT", "REST APIs", "Git", "GitHub"]
     },
-    currentFocus: "Building scalable MERN applications",
+    currentFocus: "Discovering career paths in CSE",
     funFact: "I debug with creativity, not just console.log()! 🎨"
 };
 ```
